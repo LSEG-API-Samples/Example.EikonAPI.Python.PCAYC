@@ -1,6 +1,6 @@
 # Yield curve principal component analysis with Eikon Data API
 
-This python model performs the PCA decomposition of a defined list of rates instruments (e.g. treasuries or IR swaps) using Eikon Data API, Additionally this model calculates the mean reversion on a curve trade as well as optimal holding period. [Full article is provided here](https://developers.refinitiv.com/article/yield-curve-principal-component-analysis-eikon-data-api).
+This python model performs the PCA decomposition of a defined list of rates instruments (e.g. treasuries or IR swaps) using Eikon Data API, Additionally this model calculates the mean reversion on a curve trade as well as optimal holding period. [Full article is provided here](https://developers.refinitiv.com/en/article-catalog/article/yield-curve-principal-component-analysis-with-eikon-data-api).
 
 #### Pre-requisites:
 
